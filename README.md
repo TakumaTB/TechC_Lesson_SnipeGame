@@ -2,5 +2,5 @@
 
 _hogehoge_
 ---
-*fugafuga
-*piyopiyo
+* fugafuga
+* piyopiyo
